@@ -9,3 +9,7 @@ Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, no seg
 https://github.com/digitalinnovationone/trilha-net-testes-unitarios-desafio
 
 Bons estudos! wink
+
+OBSERVAÇÃO:
+
+EXECUTAR O PROJETO SEMPRE NA PASTA RAIZ DOWNLOADS OU DOCUMENTOS, DEPOIS TRANSFERIR E SUBIR NO GIT, POR CONTA DE NOME LONGO, O C# NÃO EXECUTA ADEQUADAMENTE.
