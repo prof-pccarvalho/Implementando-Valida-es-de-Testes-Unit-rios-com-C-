@@ -1,0 +1,11 @@
+DESCRIÇÃO
+Neste desafio você utilizará seus conhecimentos adquiridos no módulo de Testes Unitários com c# da trilha de .NET.
+
+C#
+
+GitHub
+Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, no seguinte endereço:
+
+https://github.com/digitalinnovationone/trilha-net-testes-unitarios-desafio
+
+Bons estudos! wink
